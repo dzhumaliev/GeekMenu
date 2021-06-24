@@ -54,8 +54,8 @@ class MainFragment : BaseFragment<FragmentMainBinding>() {
         val data2 = ArrayList<MenuResponse>()
 
         data2.add(0, MenuResponse(R.drawable.test_image_2, "Water", 20))
-        data2.add(1, MenuResponse(R.drawable.test_image, "Food", 120))
-        data2.add(2, MenuResponse(R.drawable.test_image_2, "Water", 40))
+        data2.add(1, MenuResponse(R.drawable.test_image_2, "Food", 120))
+        data2.add(2, MenuResponse(R.drawable.test_image, "Water", 40))
         data2.add(3, MenuResponse(R.drawable.test_image, "Water", 670))
         data2.add(4, MenuResponse(R.drawable.test_image_2, "Water", 720))
         data2.add(5, MenuResponse(R.drawable.test_image, "Water", 320))
